@@ -1,0 +1,13 @@
+#result{
+    margin-left:50px;
+}
+.form-group{
+    margin-top:20px;
+    margin-left:20px;
+}
+#submit{
+    margin-left:5px;
+}
+label :last-child{
+    margin-left:70px;
+}
